@@ -56,7 +56,7 @@ Used the fine-tuned model to generate and evaluate text responses
 
 Demonstrated task-specific learning using LoRA without full model tuning
 
-🛠️ Technologies & Libraries
+Technologies & Libraries
 
 Python 3.10+
 
