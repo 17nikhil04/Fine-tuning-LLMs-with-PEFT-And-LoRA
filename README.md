@@ -2,7 +2,7 @@
 
 This repository showcases an implementation of Parameter-Efficient Fine-Tuning (PEFT) using LoRA (Low-Rank Adaptation) on the LLaMA-2-7b large language model. It is designed for NLP practitioners and ML enthusiasts interested in fine-tuning large models with limited compute resources.
 
-Project Objectives
+-Project Objectives
 
 Demonstrate the use of PEFT to efficiently fine-tune LLaMA-2
 
@@ -10,7 +10,7 @@ Apply LoRA adapters to reduce memory usage while maintaining performance
 
 Generate text using the fine-tuned model
 
-Project Workflow
+-Project Workflow
 
 1. Environment Setup
 
@@ -56,7 +56,7 @@ Used the fine-tuned model to generate and evaluate text responses
 
 Demonstrated task-specific learning using LoRA without full model tuning
 
-Technologies & Libraries
+-Technologies & Libraries
 
 Python 3.10+
 
@@ -82,7 +82,7 @@ Low-resource NLP training using LoRA
 
 NLP pipeline engineering using Hugging Face tools
 
-Use Cases
+-Use Cases
 
 Fine-tuning LLMs for domain-specific applications
 
@@ -98,4 +98,5 @@ Prototyping AI assistants, chatbots, or content generation systems
 
 Author
 
-Nikhil NegiData Analyst 
+Nikhil Negi 
+Data Analyst 
